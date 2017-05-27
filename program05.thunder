@@ -1,0 +1,20 @@
+###################################################
+# FILE:  program05.thunder
+#
+# Purpose:  With Thunder facing east, have Thunder
+#           traverse a rectangular enclosure of 
+#           arbitrary size and stop when a beeper 
+#           is found.  Then Thunder should turnoff.
+#           Assume that the beeper is located at the
+#           beginning of one side of the enclosure
+###################################################
+move
+while not_next_to_a_beeper:
+    # handle an arbitrary number of moves
+    while front_is_clear:
+       move
+    #end while
+    turnleft
+# end while
+
+turnoff

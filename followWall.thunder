@@ -1,0 +1,26 @@
+def turnright:
+    do 3:
+        turnleft
+    # end do
+#end turnright
+
+def follow_right_wall:
+    if right_is_clear:
+        turnright
+        move
+    elif front_is_clear:
+        move
+    else:
+        turnleft
+    #end if
+#end follow_wall_right
+
+def main:
+    while not_next_to_a_beeper:
+        follow_right_wall
+    #end while
+
+    turnoff
+#end main
+
+main

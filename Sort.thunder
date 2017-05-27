@@ -1,0 +1,63 @@
+def turnright:
+    turnleft
+    turnleft
+    turnleft
+#end turnright
+
+def turnaround:
+    turnleft
+    turnleft
+#end turnaround
+
+def go_home:
+    turnaround
+    while front_is_clear:
+        move
+    #end while
+    turnleft
+    while front_is_clear:
+        move
+    #end while
+#end go_home
+
+def gather:
+    while front_is_clear:
+        move
+        if next_to_a_beeper:
+            pickbeeper
+        #end if
+    #end while
+#end gather
+
+def distribute:
+    move
+    while front_is_clear:
+        if any_beepers_in_beeper_bag:
+            putbeeper
+        #end if
+        move
+    #end while
+#end distribute
+
+def position:
+    turnright
+    move
+    turnright
+#end position
+        
+
+def main:
+    while facing_east:
+        gather
+        if no_beepers_in_beeper_bag:
+            go_home
+        else:
+            turnaround
+            distribute
+            position
+        #end if
+    turnleft
+    turnoff
+#end  main
+
+main

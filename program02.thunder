@@ -1,0 +1,18 @@
+###################################################
+# FILE:  program02.thunder
+#
+# Purpose:  With Thunder facing east, have Thunder
+#           traverse a five by five square course,
+#           return to the starting position and
+#           turnoff
+###################################################
+do 4:
+    move
+    move
+    move
+    move
+    move
+    turnleft
+# end do
+
+turnoff
