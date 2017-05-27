@@ -1,6 +1,5 @@
 Robot 1 17 S 0
 beeper 17 2 1
-
 wall 2 16 N
 wall 3 16 N
 wall 4 16 N
@@ -238,5 +237,5 @@ wall 15 1 E
 wall 6 2 E
 wall 2 2 E
 wall 2 3 N
-
 beeper 17 4 1
+
