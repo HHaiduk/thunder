@@ -1,28 +1,26 @@
 Thunder the Robot
 
-To execute the jar file, one should have a Java runtime (JRE) installed.  
-Please note that Oracle's Java Development Kit version 8 was used for all 
-development of this app.  Testing has revealed that this application also
-works well with Open JRE version 7 and 8.
+Anyone who wishes to try out Thunder the Robot, should capture all the content herein.
 
-If you do not have a JRE installed (or your version is old), navigate to:
+NOTE:  All the executables provided are 64-bit executables.  
 
-https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html
+For all platforms, use the OS file explorer and navigate to the directory/folder into
+which this download is placed.
 
-Given that the latest Oracle Java Run Time (JRE) is installed, then there 
-should be a file association with .jar (Java ARchive) files.  Simply 
-navigate your file explorer (Linux, Windows, Mac) to point to the 
-thunder.jar file, double-click on it, and the application will launch.
+Linux users:  click on thunderLINUX to launch the application.  If you
+              wish to install the application permanently, click on the
+              thunderLINUX-setup file to launch a text-based installer.
 
-If you have any difficulties, please contact me at hhaiduk@wtamu.edu
-and provide me as much information as you can about your situation.
+MAC users:  click on the ThunderMAC to launch the application
+
+Windows users:  click on the thunderWIN.exe to launch the application
+
+That's it.  The application has the same look and feel on all the above platforms.
+
+Please note that should there be sufficient interest in the use of Thunder the 
+Robot, professional installers will be developed for at least the above platforms.
 
 H. Paul Haiduk
-05/27/2017
+06/01/2017
 
-NOTE: If you are running a Linux without a GUI, then you should be able 
-to enter the command:
 
-    java -jar thunder.jar
-
-assuming that the java executable is in your system PATH.
