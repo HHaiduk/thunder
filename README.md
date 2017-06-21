@@ -10,6 +10,10 @@ which this download is placed.
 Linux users:  To install the application permanently, click on the
               thunderLINUX-setup file to launch a text-based installer.
 
+MAC users:    To install the application, retrieve the Thunder.app.zip file and
+              extract the app from the archive.  Then simply copy Thunder.app 
+              over to your Applications.
+
 Windows users: To install the application, click on the thunder-setup.exe to
                launch the installer.  You may choose where you wish the app
                to install.
