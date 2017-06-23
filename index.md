@@ -29,44 +29,12 @@ The single best text for making best use of this software is _Karel the Robot: A
 Programming, Second Edition_ by Richard E. Pattis and revised by Jim Roberts and Mark Stehlik. (C) 1995 by John Wiley & Sons,
  Inc. ISBN-10: 0-471-59725-2. Book is 160 pages in paperback.
 
+Please note that H. Paul Haiduk is now working on a book (along with problems and suggested solutions) to accompany this software.  Plans are to complete the book by December 2017.
+
 CC BY-NC-ND 2017  H. Paul Haiduk and West Texas A&M University Computer Science. 
 This work may be freely shared with others as long as attribution is given to H. Paul Haiduk and the Computer Science 
 program at West Texas A&M University. However, this license does not allow any modifications (derivatives) of the work
 and does not allow for commercial use in any way.
 
-[Creative Commons information](<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Thunder the Robot</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
-[License Deed](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+(<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Thunder the Robot</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
-[Legal Code](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HHaiduk/thunder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
