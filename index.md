@@ -26,7 +26,7 @@ well-structured programs that instruct Thunder to perform surprisingly complex t
 sophisticated programming concepts that will enhance their programming ability! Note that there are NO variables in 
 Thunder's language.
 
-The single best text for making best use of this software is _Karel the Robot: A Gentle Introduction to the Art of
+For the time being, the single best text for making best use of this software is _Karel the Robot: A Gentle Introduction to the Art of
 Programming, Second Edition_ by Richard E. Pattis and revised by Jim Roberts and Mark Stehlik. (C) 1995 by John Wiley & Sons,
  Inc. ISBN-10: 0-471-59725-2. Book is 160 pages in paperback.
 
