@@ -37,3 +37,5 @@ This work may be freely shared with others as long as attribution is given to H.
 program at West Texas A&M University. However, this license does not allow any modifications (derivatives) of the work
 and does not allow for commercial use in any way.
 
+Credit:  [Excelsior JET](https://www.excelsiorjet.com) without which the native code executables would not have been possible.
+
