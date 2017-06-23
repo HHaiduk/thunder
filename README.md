@@ -20,9 +20,7 @@ Windows users: To install the application, click on the thunder-setup.exe to
 
 That's it.  The application has the same look and feel on all the above platforms.
 
-A version for the MAC is in the works but is not yet ready.
-
 H. Paul Haiduk
-06/05/2017
+06/23/2017
 
 
