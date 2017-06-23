@@ -1,4 +1,5 @@
-# Thunder the Robot:  A Gentle Introduction to the Art of Programming 
+# Thunder the Robot
+## A Gentle Introduction to the Art of Programming 
 
 This is a software product that evolved over many years. It's original inspiration came from a book entitled _Karel the Robot: A Gentle Introduction to the Art of Pascal Programming_ originally published in 1981 by John Wiley and Sons and authored by Richard Pattis. H. Paul Haiduk was so taken by the power of this approach to teaching the fundamentals of algorithmic thinking and programming that he ported one of the early versions of Pattis' software written in Pascal over to a Hewlett-Packard 3000 Series computer and used that implementation to support teaching programming for a number of years. Most recently, this software was re-inspired by Guido van Robot. Unfortunately, the Guido Implementation has not seen additional development since 2010. In addition, the graphical presentation of the robot's world made it difficult to discern just where the robot was in its world.
 
