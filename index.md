@@ -31,11 +31,6 @@ Programming, Second Edition_ by Richard E. Pattis and revised by Jim Roberts and
 
 Please note that H. Paul Haiduk is now working on a book (along with problems and suggested solutions) to accompany this software.  Plans are to complete the book by December 2017.
 
-CC BY-NC-ND 2017  H. Paul Haiduk and West Texas A&M University Computer Science. 
-This work may be freely shared with others as long as attribution is given to H. Paul Haiduk and the Computer Science 
-program at West Texas A&M University. However, this license does not allow any modifications (derivatives) of the work
-and does not allow for commercial use in any way.
-
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Thunder the Robot</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a> 
 by H. Paul Haiduk and West Texas A&M University Computer Science. 
 This work may be freely shared with others as long as attribution is given to H. Paul Haiduk and the Computer Science 
