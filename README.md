@@ -12,7 +12,7 @@ Linux users:  To install the application permanently, click on the
 
 MAC users:    To install the application, retrieve the Thunder.app.zip file and
               extract the app from the archive.  Then simply copy Thunder.app 
-              over to your Applications.
+              over to your Applications folder.
 
 Windows users: To install the application, click on the thunder-setup.exe to
                launch the installer.  You may choose where you wish the app
@@ -20,7 +20,9 @@ Windows users: To install the application, click on the thunder-setup.exe to
 
 That's it.  The application has the same look and feel on all the above platforms.
 
+NOTE:  All install sets were created using Excelsior Jet.
+
 H. Paul Haiduk
-06/23/2017
+07/25/2017
 
 
