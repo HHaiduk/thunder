@@ -1,6 +1,6 @@
 Thunder the Robot
 
-Anyone who wishes to try out Thunder the Robot, should capture all the content herein.
+Anyone who wishes to try out Thunder the Robot, should download an install set for their particular OS.
 
 NOTE:  All the executables provided are 64-bit executables.  
 
@@ -23,6 +23,6 @@ That's it.  The application has the same look and feel on all the above platform
 NOTE:  All install sets were created using Excelsior Jet.
 
 H. Paul Haiduk
-07/25/2017
+05/24/2018
 
 
