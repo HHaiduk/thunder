@@ -16,7 +16,8 @@ MAC users:    To install the application, retrieve the Thunder.app.zip file and
 
 Windows users: To install the application, click on the thunder-setup.exe to
                launch the installer.  You may choose where you wish the app
-               to install.
+               to install.  For the simplest install, simply click Install
+               when the installer prompts.
 
 That's it.  The application has the same look and feel on all the above platforms.
 
