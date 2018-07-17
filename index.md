@@ -30,7 +30,7 @@ For the time being, the single best text for making best use of this software is
 Programming, Second Edition_ by Richard E. Pattis and revised by Jim Roberts and Mark Stehlik. (C) 1995 by John Wiley & Sons,
  Inc. ISBN-10: 0-471-59725-2. Book is 160 pages in paperback.
 
-Due to the overwhelming interest in using Thunder the Robot to introduce programming and algorithmic thinking, H. Paul Haiduk is now working on a book (along with problems and suggested solutions) to accompany this software.  Plans are to complete the book by December 2018.
+Due to the overwhelming interest in using Thunder the Robot to introduce programming and algorithmic thinking, H. Paul Haiduk is now working on a book (along with problems and suggested solutions) to accompany this software.  Completion date depends upon number of teachers wanting to use Thunder in the classroom.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Thunder the Robot</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a> 
 by H. Paul Haiduk and West Texas A&M University Computer Science. 
