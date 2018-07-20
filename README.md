@@ -24,8 +24,7 @@ Windows users: To install the application, retrieve thunder-setup.exe to some
 	       appropriate location on your computer and then click on thunder-setup.exe
                to launch the installer.  You may choose where you wish the app
                to install.  For the simplest install, simply click Install
-               when the installer prompts.
-			   
+               when the installer prompts.<br /><br />
 	       For those Windows users without administrative privileges, retrieve
 	       Thunder-win-portable.zip and extract its contents to some appropriate
 	       location (including a flash/thumb drive).  Extraction will create the
